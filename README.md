@@ -2,7 +2,7 @@
 
 <p align="left">
 Desenvolvedor Fullstack em formação, apaixonado por transformar ideias em sistemas reais, 
-funcionais e bem estruturados — do backend à interface.
+funcionais e bem estruturados, do backend à interface.
 </p>
 
 ---
