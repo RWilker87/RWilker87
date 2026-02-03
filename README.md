@@ -9,9 +9,8 @@ funcionais e bem estruturados — do backend à interface.
 
 ## 🧠 Quem eu sou na prática
 
-- 🎓 Estudante de Ciência da Computação (8º período – UFAPE)
+- 🎓 Estudante de Ciência da Computação (9º período – UFAPE)
 - 🔧 Desenvolvedor com experiência em **APIs REST, aplicações web e mobile**
-- 🏗️ Gosto de entender o sistema como um todo: **dados, regras de negócio e experiência do usuário**
 - 🚀 Busco escrever código limpo, organizado e fácil de evoluir
 - 📍 Atualmente atuando com tecnologia no ambiente educacional
 
