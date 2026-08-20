@@ -1,47 +1,52 @@
-<h1 align="left">👋 Eu sou o Rian Wilker</h1>
+<h1 align="left">👋 Hi, I'm Rian Wilker</h1>
 
 <p align="left">
-Desenvolvedor Fullstack em formação, apaixonado por transformar ideias em sistemas reais, 
-funcionais e bem estruturados, do backend à interface.
+Full Stack & Mobile Software Engineer passionate about transforming complex problems into resilient, user-centered digital solutions, from backend architecture and applied AI to polished cross-platform interfaces.
 </p>
 
 ---
 
-## 🧠 Quem eu sou na prática
+## 🧠 About Me
 
-- 🎓 Estudante de Ciência da Computação (9º período – UFAPE)
-- 🔧 Desenvolvedor com experiência em **APIs REST, aplicações web e mobile**
-- 🚀 Busco escrever código limpo, organizado e fácil de evoluir
-- 📍 Atualmente atuando com tecnologia no ambiente educacional
+- 🎓 **B.S. in Computer Science** (Final Year – UFAPE)
+- 🚀 **Full Stack & Mobile Engineer** experienced in building end-to-end architectures (Next.js, Flutter, Supabase, Firebase)
+- 🤖 **Applied AI & Algorithms:** Integrating speech-to-text pipelines (OpenAI Whisper) and text-alignment algorithms (LCS) for real-time analysis
+- 🏛️ **Tech Educator & Solution Architect:** Leading teacher training in computing curriculum and bridging the gap between product engineering and real user needs
 
 ---
 
-## ⚙️ Stack que uso no dia a dia
+## ⚙️ Tech Stack & Tools
 
-### Frontend
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+### Frontend & Mobile
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React_19-111?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
+![Flutter](https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-111?style=for-the-badge&logo=dart)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS_v4-111?style=for-the-badge&logo=tailwindcss)
 
-### Backend
+### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![APIs REST](https://img.shields.io/badge/APIs_REST-111?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-111?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-111?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=for-the-badge&logo=vercel)
+![Zod](https://img.shields.io/badge/Zod-111?style=for-the-badge&logo=zod)
 
-### Banco de Dados
+### Databases & Security
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![Cloud Firestore](https://img.shields.io/badge/Firestore-111?style=for-the-badge&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-111?style=for-the-badge&logo=sqlite)
-![Prisma](https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma)
+![Row Level Security](https://img.shields.io/badge/RLS%20%2F%20RBAC-111?style=for-the-badge)
 
-### Outros
+### AI & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-111?style=for-the-badge&logo=openai)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
 ---
 
-## 📌 Contato
+## 📌 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rian-wilker-63804b205)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:rianwilker17@gmail.com)
